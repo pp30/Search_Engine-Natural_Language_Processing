@@ -31,10 +31,10 @@ Build a basic text processing module that implements:
 Implementing an Information Retrieval system using the Vector Space Model with the same dataset.
 
 Implement the following evaluation metrics and analyse results: 
-1. Precision @ k <\br>
-2. Recall @ k <\br>
-3. F-Score @ k <\br>
-4. Average Precision @ k <\br>
+1. Precision @ k 
+2. Recall @ k 
+3. F-Score @ k 
+4. Average Precision @ k 
 5. nDCG @ k
 
 
