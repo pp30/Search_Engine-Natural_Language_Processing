@@ -1,7 +1,7 @@
-# CS6370-Natural_Language_Processing
-NLP Coursework @ IIT Madras 
+# Search Engine  - Natural_Language_Processing
+CS6370 NLP Project @ IIT Madras 
 
-Both the assignments involve implemeting a basic search engine application. We use the cranfield dataset for the same.
+The implementation of the toy search engine is split into 2 parts. We use the cranfield dataset for the same.
 
 ## Dataset
 The Cranfield dataset contains 1400 documents (cran_docs.json), 225 queries (cran_queries.json), and query-document relevance judgements (cran_qrels.json). 
@@ -14,15 +14,15 @@ The positions of the reference documents for each query (in cran_qrels.json) ind
 
 Query-Reference pairs in which the reference is of no interest to the query are excluded from the relevance file. More on the Cranfield dataset: http://ir.dcs.gla.ac.uk/resources/test_collections/cran/
 
-## Assgn-1
-Build a basic text processing module that implements: 
+## PART-1
+Building the text processing module for the search engine that implements: 
 - sentence segmentation 
 - tokenization 
 - stemming and lemmatization 
 - stopword removal
 
-## Assgn-2
-Implementing an Information Retrieval system using the Vector Space Model with the same dataset.
+## PART-2
+Implementing the Information Retrieval module using TF-IDF based Vector Space Model with the same dataset.
 
 Implement the following evaluation metrics and analyse results: 
 1. Precision @ k 
