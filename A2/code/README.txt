@@ -1,12 +1,12 @@
-This folder contains the additional files required for Part 2 of the assignment, involving building a search engine application. Note that this code works for both Python 2 and Python 3. 
+This folder contains the additional files required for Part 2, involving building a search engine application. Note that this code works for both Python 2 and Python 3. 
 
 The following files have been added:
 informationRetrieval.py and evaluation.py - Implement the corresponding tasks inside the functions in these files.
 
 The following file has been updated:
-main.py - The main module that contains the outline of the Search Engine. It has been updated to include calls to the information retrieval and evaluation tasks, in addition to the tasks solved in Part 1 of the assignment. Do not change anything in this file.
+main.py - The main module that contains the outline of the Search Engine. It has been updated to include calls to the information retrieval and evaluation tasks, in addition to the tasks solved in Part 1 of the project. Do not change anything in this file.
 
-For this part of the assignment, you are advised to make a copy of the completed code from Part 1 of the assignment - replace the main file with the updated version and add and fill in the new files (informationRetrieval.py and evaluation.py).
+Make a copy of the code from Part 1 - replace the main file with the updated version and add the new files (informationRetrieval.py and evaluation.py).
 
 To test your code, run main.py as before with the appropriate arguments.
 Usage: main.py [-custom] [-dataset DATASET FOLDER] [-out_folder OUTPUT FOLDER]
