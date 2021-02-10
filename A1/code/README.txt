@@ -1,10 +1,9 @@
-This folder contains the template code for a search engine application. 
+This folder contains the template code 
 
 main.py - The main module that contains the outline of the Search Engine. Do not change anything in this file.
 util.py - An extra file where you can add any additional processing or utility functions that you may need for any of the sub-tasks.
 sentenceSegmentation.py, tokenization.py, inflectionReduction.py and stopwordRemoval.py - Implement the corresponding sub-tasks inside the functions in these files.
 
-More files corresponding to each sub-task will be provided as the assignment progresses, along with updated versions of main.py
 
 To test your code, run main.py with the appropriate arguments
 Usage: main.py [-custom] [-dataset DATASET FOLDER] [-out_folder OUTPUT FOLDER]
