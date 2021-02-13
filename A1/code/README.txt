@@ -1,4 +1,4 @@
-This folder contains the template code 
+This folder contains the files 
 
 main.py - The main module that contains the outline of the Search Engine. Do not change anything in this file.
 util.py - An extra file where you can add any additional processing or utility functions that you may need for any of the sub-tasks.
