@@ -14,14 +14,14 @@ The positions of the reference documents for each query (in cran_qrels.json) ind
 
 Query-Reference pairs in which the reference is of no interest to the query are excluded from the relevance file. More on the Cranfield dataset: http://ir.dcs.gla.ac.uk/resources/test_collections/cran/
 
-## PART-1
+## PART- A1
 Building the text processing module for the search engine that implements: 
 - sentence segmentation 
 - tokenization 
 - stemming and lemmatization 
 - stopword removal
 
-## PART-2
+## PART- A2
 Implementing the Information Retrieval module using TF-IDF based Vector Space Model with the same dataset.
 
 Implement the following evaluation metrics and analyse results: 
