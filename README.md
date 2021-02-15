@@ -1,5 +1,4 @@
 # Search Engine  - Natural_Language_Processing
-CS6370 NLP Project @ IIT Madras 
 
 The implementation of the toy search engine is split into 2 parts. We use the cranfield dataset for the same.
 
